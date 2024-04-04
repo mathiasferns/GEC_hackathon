@@ -3,9 +3,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <title>PDF in HTML</title>
-</head>
+
 
 <body>
         <h1>TRUST GUARD</h1>
